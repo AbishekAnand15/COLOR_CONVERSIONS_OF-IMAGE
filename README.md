@@ -1,5 +1,5 @@
 # COLOR_CONVERSIONS_OF-IMAGE
-## AIM
+## AIM:
 To write a python program using OpenCV to do the following image manipulations.
 
 i) Read, display, and write an image.
@@ -25,7 +25,7 @@ Anaconda - Python 3.7
 ### Step9: Split and Merge RGB Image
 ### Step10: Split and merge HSV Image
 
-##### Program:
+## Program:
 ```
 ### Developed By: Abishek Xavier A
 ### Register Number: 212222230004
