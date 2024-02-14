@@ -1,4 +1,4 @@
-# COLOR_CONVERSIONS_OF-IMAGE
+![out19](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/ac167d1b-c7cc-48c1-9b61-8581b10bd0bd)# COLOR_CONVERSIONS_OF-IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
 
@@ -48,8 +48,9 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- <img src="![out 1](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/6bd6d7aa-10d3-4ffc-89e9-f4c74187f7c4)
-">
+ ![out 1](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/18d66b3c-b3af-43b7-86cb-a87927234b5f)
+
+
   </td>
   </tr>
 
@@ -67,8 +68,8 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
-<img src="![Screenshot 2024-02-14 200035](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/45ae6aa1-75de-489f-b9f6-5f5eb3422e15)
-">
+![Screenshot 2024-02-14 200035](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/45ae6aa1-75de-489f-b9f6-5f5eb3422e15)
+
   </td>
   </tr>
   <tr>
@@ -84,8 +85,8 @@ Anaconda - Python 3.7
   <td>
 
 ### OUTPUT:
-<img src="![Screenshot 2024-02-14 200045](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/69d13d4b-18aa-42db-8ea6-29b110ddfd59)
-">
+![Screenshot 2024-02-14 200045](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/69d13d4b-18aa-42db-8ea6-29b110ddfd59)
+
   </td>
   </tr>
   <tr>
@@ -111,8 +112,8 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- <img src="![out2](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/c73c2cf6-65a1-41b9-94af-ef871e0a942f)
-">
+ ![out2](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/c73c2cf6-65a1-41b9-94af-ef871e0a942f)
+
   </td>
   </tr>
   <tr>
@@ -135,8 +136,8 @@ Anaconda - Python 3.7
     
 ### OUTPUT:
 
-<img src="![out3](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/541f079a-1dc0-4b1b-8623-53a4befe6eb5)
-">
+![out3](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/541f079a-1dc0-4b1b-8623-53a4befe6eb5)
+
   </td>
   </tr>
 </table>
@@ -160,7 +161,12 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![Screenshot 2024-02-12 224411](https://github.com/srikarthickeyanganapathy/COLOR_CONVERSIONS_OF-IMAGE/assets/119393842/a0c420fa-5cd2-445f-a7e9-16297f6a2b3b)
+![out 4](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/c8d95e50-c998-4dc7-9414-61e771d3e370)
+![out5](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/8754a33a-a06e-4709-9fca-d008c3eb3574)
+![out6](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/491eb665-cdc7-4902-b171-0a7730ddf5be)
+![out7](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/12240fde-4d5f-45c1-83a2-d2e40546b553)
+![out8](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/1106514c-0470-418a-88ad-cb1c288c1b77)
+
 
 ### vii) HSV to RGB and BGR
 ```Python
@@ -178,7 +184,10 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![Screenshot 2024-02-12 224529](https://github.com/srikarthickeyanganapathy/COLOR_CONVERSIONS_OF-IMAGE/assets/119393842/ebc43a3c-a126-417c-a297-cc6307e45314)
+![out9](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/9eac2c3d-6d2a-49b3-8756-dcfc3668d210)
+![out10](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/f9e0adf7-6ea7-4757-8c26-7e160937778f)
+![out11](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/9fba2366-b094-4627-bef4-73a1c7ca1aa0)
+
 
 ### viii) RGB and BGR to YCrCb
 ```Python
@@ -195,7 +204,12 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![Screenshot 2024-02-12 224622](https://github.com/srikarthickeyanganapathy/COLOR_CONVERSIONS_OF-IMAGE/assets/119393842/36a0d7b2-1664-4624-83fb-5f0017ffab66)
+![out12](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/a45b81dd-17bc-4643-897f-b25c9d03deaa)
+![out13](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/5393a075-6457-412d-b017-b3285391f901)
+![out14](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/58269f8c-fc8b-44ef-872a-7a2cbe71a5fd)
+
+
+
 
 ### ix) Split and merge RGB Image
 ```Python
@@ -215,7 +229,12 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![Screenshot 2024-02-12 224811](https://github.com/srikarthickeyanganapathy/COLOR_CONVERSIONS_OF-IMAGE/assets/119393842/e700495a-5cb4-45d6-8741-713cc5aa0497)
+![out15](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/9a1f7154-720e-4efc-9359-f4d8c1d28a7c)
+![out16](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/1a172b0e-1a47-471b-bb85-ccb3bdeae535)
+![out17](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/c5babc58-6f0c-4dc2-a360-7c2d1065f946)
+![out18](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/72658dd2-67d7-44b8-831a-efa1a5adbb21)
+
+
 
 ### x) Split and merge HSV Image
 ```Python
@@ -234,7 +253,11 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![Screenshot 2024-02-12 224924](https://github.com/srikarthickeyanganapathy/COLOR_CONVERSIONS_OF-IMAGE/assets/119393842/31196d0f-ffcd-4aac-b743-2d5caf54d037)
+![out19](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/10928bf3-eaab-48ca-b8e9-3ba8656d0685)
+![out20](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/84d8468d-69d6-42f5-a8aa-27321e2c9934)
+![out21](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/87dce6e0-9757-475c-9764-c2c64eea3407)
+![out22](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/22265ae5-cadb-4230-95b2-ecdc3e3a7580)
+
 
 ## Result:
 Thus the images are read, displayed, and written ,and color conversion was performed between RGB, HSV and YCbCr color models successfully using the python program.
